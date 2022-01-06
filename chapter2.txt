@@ -4,3 +4,7 @@ The previous edition of this book had three appendixes. This edition retains the
 I have updated Appendix B to cover new Javadoc features in JDK 9. In the previous edition, Appendix C
 covered compact profiles, which were introduced in JDK 8. Now you can create a custom runtime image in
 JDK 9, which makes compact profiles kind of redundant. This made me drop Appendix C in this edition.
+
+There are versions of Python for many platforms. 
+The book uses the Idle code editor which is included with the Python distribution.
+It doesn't matter
