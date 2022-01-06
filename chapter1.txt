@@ -1,2 +1,11 @@
 This is the day that the Lord has made, I will rejoice
  and be glad in it.
+
+The previous edition of this book had three appendixes. This edition retains the first two appendixes.
+I have updated Appendix B to cover new Javadoc features in JDK 9. In the previous edition, Appendix C
+covered compact profiles, which were introduced in JDK 8. Now you can create a custom runtime image in
+JDK 9, which makes compact profiles kind of redundant. This made me drop Appendix C in this edition.
+I cover creating custom runtime uimages in JDK 9 in the third volume of this series.
+I received several emails from the readers about the fact that the books in this series do not include
+questions and exercises, which are needed mainly for students and beginners. Students use this book in
+their Java classes as a Java text book and many beginners use it to learn Java.
